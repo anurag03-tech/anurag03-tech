@@ -6,7 +6,7 @@
 <img align="right" alt="coding"  width="225" src="https://i.ibb.co/cyPSvW3/display-icon.png"></img>
 - 👨‍🎓 I'm in my 5th semester of B.Tech. in Computer Science and Engineering at Netaji Subhas University of Technology, Delhi.
 - 👨‍💻 MERN Stack Developer.
-- 🌱 I’m currently learning AI/ML.
+- 🌱 Currently learning AI/ML.
 
 #### 📫 Contact via
 <a href="https://www.linkedin.com/in/anurag-03-tech"><img height="40" src="https://i.ibb.co/YRYz6Wb/Anurag-git-Linkedin.png"/></a>
