@@ -4,7 +4,7 @@
 
 ## 💫 About Me
 <img align="right" alt="coding"  width="225" src="https://i.ibb.co/cyPSvW3/display-icon.png"></img>
-- 👨‍🎓 Currently in my 5th semester of B.Tech. in Computer Science and Engineering at Netaji Subhas University of Technology, Delhi.
+- 👨‍🎓 I'm in my 5th semester of B.Tech. in Computer Science and Engineering at Netaji Subhas University of Technology, Delhi.
 - 👨‍💻 MERN Stack Developer.
 - 🌱 I’m currently learning AI/ML.
 
