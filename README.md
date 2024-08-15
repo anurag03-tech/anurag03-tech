@@ -1,6 +1,9 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Calibri&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anurag+Singh;" />
+</h1>
 
 ## 💫 About Me
-<img align="right" alt="coding"  width="225" src="https://i.ibb.co/cyPSvW3/display-icon.png"></img>
+<!---<img align="right" alt="coding"  width="225" src="https://i.ibb.co/cyPSvW3/display-icon.png"></img>--->
 - 👨‍🎓 I'm in my 5th semester of B.Tech. in Computer Science and Engineering at Netaji Subhas University of Technology, Delhi.
 - 👨‍💻 MERN Stack Developer.
 
@@ -30,9 +33,6 @@
 <hr/>
 
 <!---
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Calibri&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anurag+Singh;" />
-</h1>
 
 anurag03-tech/anurag03-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
