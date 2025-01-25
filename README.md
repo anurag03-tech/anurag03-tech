@@ -27,7 +27,7 @@
     <img height="45" src="https://i.ibb.co/xDHXcPM/Anurag-git-React.png"></img>
     <img height="45" src="https://i.ibb.co/VVQdYjq/Anurag-git-Redux.png"></img>
     <img height="45" src="https://i.ibb.co/2YSpmn7/Anurag-git-Tailwind-CSS.png"></img>
-    <img height="45" src="https://res-console.cloudinary.com/drexkdxss/thumbnails/v1/image/upload/v1737828149/ZnBwZDlnNmwzdGhuOG1pZ3hzMzc=/drilldown"></img>
+    <img height="45" src="https://i.ibb.co/RN5VJvB/Anurag-git-React-Native.png"></img>
     
 </div>
 
