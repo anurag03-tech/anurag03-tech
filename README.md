@@ -6,7 +6,7 @@
 
 <!---<img align="right" alt="coding" style="height:225px;" src="https://i.ibb.co/cyPSvW3/display-icon.png">--->
 
-- 👨‍🎓 I'm in my 6th semester of B.Tech. in Computer Science and Engineering at Netaji Subhas University of Technology, Delhi.  
+- 👨‍🎓 I'm in my 7th semester of B.Tech. in Computer Science and Engineering at Netaji Subhas University of Technology, Delhi.  
 - 👨‍💻 MERN Stack Developer  
 - 📱 React Native Developer  
 
